@@ -6,6 +6,336 @@ A curated list of awesome **Xamarin.Forms** samples to show how to create **good
 
 *Would you like to see a [list](https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90) of published applications made with Xamarin.Forms?* Thank you [David Ortinau](https://twitter.com/davidortinau) for the list!
 
+*Would you like to see more goodlooking UI samples?. Do you know **[Snppts](https://snppts.dev)**?*
+
+## [FashionApp](https://github.com/devcrux/FashionApp)
+
+Beautiful Fashion App Design Using Xamarin.Forms.
+
+<img src="images/fashionapp.png" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features
+* CollectionView
+* Shell
+
+### More information:
+- Source code: [https://github.com/devcrux/FashionApp](https://github.com/devcrux/FashionApp)
+- Author: [Oludayo Alli](https://github.com/devcrux)
+
+## [MarvelCards](https://github.com/kphillpotts/MarvelCards)
+
+A Xamarin.Forms UI Challenge based on https://dribbble.com/shots/5935613-Marvel-Movies-Interaction.
+
+![MarvelCards](images/marvel-movies.gif)
+
+### Platforms
+
+Android, iOS.
+
+### Features
+* [CardsView](https://github.com/AndreiMisiukevich/CardView)
+* Animations
+
+### More information:
+- Source code: [https://github.com/kphillpotts/MarvelCards](https://github.com/kphillpotts/MarvelCards)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+
+## [SyncFusion Essential UI Kit for Xamarin.Forms](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms)
+
+Elegantly designed XAML templates for Xamarin.Forms apps. These templates follow the MVVM design pattern to provide hassle-free integration and are compatible with Android, iOS, and UWP platforms. 
+
+![SyncFusion Essential UI Kit for Xamarin.Forms](images/xamarin-forms-ui-template.png)
+
+### Platforms
+
+Android, iOS and UWP.
+
+### Features
+* Rich, elegant XAML layouts for most common scenarios.
+* Layouts optimized for phones, tablets, and desktop.
+* Based on the MVVM design pattern to work with any MVVM framework.
+* Easy integration.
+* Developer-friendly APIs.
+* Appearance customization using styles.
+* Optimized layouts to get the best possible performance.
+* Right-to-left rendering support.
+
+### More information:
+- Source code: [https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms)
+
+## [AirNZClone](https://github.com/rid00z/AirNZClone)
+
+Air NZ app clone using Xamarin.Forms.
+
+<img src="images/airnzclone.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Animations.
+- Carousel.
+
+### More information:
+- Source code: [https://github.com/rid00z/AirNZClone](https://github.com/rid00z/AirNZClone)
+- Author: [Michael Ridland](https://github.com/rid00z)
+
+## [Balloony](https://github.com/shanranm/Balloony)
+
+Xamarin Forms UI Challenge based on [Ballon Slider Control design](https://dribbble.com/shots/6549207-Balloon-Slider-Control).
+
+<img src="images/balloony.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- SkiaSharp.
+- Use Svg (FFImageLoading).
+- Gestures.
+
+### More information:
+- Source code: [https://github.com/shanranm/Balloony](https://github.com/shanranm/Balloony)
+- Author: [Shanmukha Ranganath](https://github.com/shanranm)
+
+## [PlayMusicXamarinClone](https://github.com/AlejandroRuiz/PlayMusicXamarinClone)
+
+Google Play Music app clone using Xamarin.Forms Shell.
+
+<img src="images/playmusicclone01.png" Width="220" /> <img src="images/playmusicclone02.png" Width="220" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Xamarin.Forms Shell.
+- CollectionView.
+- SearchHandler.
+
+### More information:
+- Blog: [Xamarin.Forms 4 In Action: Rapid Prototyping](https://alejandroruizvarela.blogspot.com/2019/07/xamarinforms-4-in-action-rapid.html)
+- Source code: [https://github.com/AlejandroRuiz/PlayMusicXamarinClone](https://github.com/AlejandroRuiz/PlayMusicXamarinClone)
+- Author: [Alejandro Ruiz Varela](https://github.com/AlejandroRuiz)
+
+## [FabulousTravel](https://github.com/mallibone/FabulousTravel)
+
+A beautiful Xamarin Forms sample using Atomic Design, F# and Fabulous.
+
+<img src="images/fabuloustravel.png" Width="500" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Carousel.
+- F# UI (using Fabulous).
+
+### More information:
+- Blog: [Creating beautiful Xamarin Forms apps using Atomic Design, F# and Fabulous](https://mallibone.com/post/creating-beautiful-xamarin-forms-apps-using-atomic-design-f-and-fabulous)
+- Source code: [https://github.com/mallibone/FabulousTravel](https://github.com/mallibone/FabulousTravel)
+- Author: [Mark Allibone](https://github.com/mallibone)
+  
+## [FicusUIChallenge](https://github.com/Pujolsluis/FicusUIChallenge)
+
+Xamarin.Forms UI Challenge Ficus IoT App.
+
+<img src="images/ficusuichallengepujolsluis.gif" Width="500" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Custom ListView.
+- Corner Radius.
+  
+### More information:
+- Source code: [https://github.com/Pujolsluis/FicusUIChallenge](https://github.com/Pujolsluis/FicusUIChallenge)
+- Author: [Luis Pujols](https://github.com/Pujolsluis)
+- 
+## [XamBookLibrary](https://github.com/shanranm/XamBookLibrary)
+
+Xamarin.Forms UI challenge from the [design](https://dribbble.com/shots/6603461-Library-App) by Victoria Sgarro.
+
+<img src="images/xambooklibrary.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Animations.
+- Circle Images.
+- PancakeView (Corners, etc.).
+
+### More information:
+- Source code: [https://github.com/shanranm/XamBookLibrary](https://github.com/shanranm/XamBookLibrary)
+- Author: [Shanmukha Ranganath](https://github.com/shanranm)
+  
+## [Art Plant Mall](https://github.com/jsuarezruiz/Art-Plant-Mall)
+
+A Xamarin.Forms UI challenge from the [design](https://dribbble.com/shots/6612746-Art-Plant-Mall) by [JIANGGM](https://dribbble.com/JIANGGM).
+
+<img src="images/artplantmall01.gif" Width="250" /> <img src="images/artplantmall02.gif" Width="250" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Animations.
+- CollectionView.
+- VisualStateManager.
+- Custom Controls.
+- Parallax effect.
+
+### More information:
+- Blog: [[Xamarin UI Challenge] Art Plant Mall](https://javiersuarezruiz.wordpress.com/2019/07/17/xamarin-ui-challenge-art-plant-mall-english-version/)
+- Source code: [https://github.com/jsuarezruiz/Art-Plant-Mall](https://github.com/jsuarezruiz/Art-Plant-Mall)
+- Author: [Javier Suárez](https://twitter.com/jsuarezruiz)
+  
+## [Run Away!](https://github.com/roubachof/SkiaSharpnado)
+
+The Run Away! app: Drawing gradient lines on top of Maps with SkiaSharp.
+
+<img src="images/runaway01.jpg" Width="250" /> <img src="images/runaway02.jpg" Width="250" /> 
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Maps.
+- Paths in the map using SkiaSharp.
+
+### More information:
+- Blog: [The Run Away! app: Drawing gradient lines on top of Maps with SkiaSharp](https://www.sharpnado.com/run-away-app/)
+- Source code: [https://github.com/roubachof/SkiaSharpnado](https://github.com/roubachof/SkiaSharpnado)
+- Author: [Jean-Marie Alfonsi](https://github.com/roubachof)
+
+## [RottenUI](https://github.com/kphillpotts/RottenUI)
+
+A Xamarin.Forms UI Challenge.
+
+<img src="images/rottenui.png" Width="250" /> 
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- SkiaSharp.
+- PancakeView.
+- Custom tabs.
+
+### More information:
+- Source code: [https://github.com/kphillpotts/RottenUI](https://github.com/kphillpotts/RottenUI)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+  
+## [Mountain Mobile](https://github.com/kphillpotts/MountainMobile)
+
+A Xamarin.Forms UI Challenge playing with SkiaSharp and animations.
+
+<img src="images/mountainmobile.gif" Width="250" /> 
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- SkiaSharp.
+- Animations.
+
+### More information:
+- Source code: [https://github.com/kphillpotts/MountainMobile](https://github.com/kphillpotts/MountainMobile)
+- Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
+
+## [Payment UI Sample](https://github.com/CrossGeeks/PaymentUISample)
+
+A beautiful credit card payment UI, inspired by the following UI from [CVTemplates](https://cvtemplates.club/002-credit-card-checkout-screen-2x/).
+
+<img src="images/paymentuisample.gif" Width="250" /> 
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- Visual.
+- Behaviors.
+
+### More information:
+- Blog: [Credit Card Payment UI in Xamarin Forms](https://xamgirl.com/credit-card-payment-ui-in-xamarin-forms/)
+- Source code: [https://github.com/CrossGeeks/PaymentUISample](https://github.com/CrossGeeks/PaymentUISample)
+- Author: [Charlin Agramonte](https://xamgirl.com)
+  
+## [xUber](https://github.com/CrossGeeks/xUber)
+
+Uber Clone using Xamarin.Forms.
+
+<img src="images/xuber.png" Width="800" /> 
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- [Google Maps](https://github.com/amay077/Xamarin.Forms.GoogleMaps).
+- [Cards](https://github.com/AndreiMisiukevich/CardView).
+- Dialogs.
+
+### More information:
+- Blog: [Introducing xUber – Uber clone using Xamarin Forms](https://www.xamboy.com/2019/07/03/introducing-xuber-uber-clone-using-xamarin-forms/)
+- Source code: [https://github.com/CrossGeeks/xUber](https://github.com/CrossGeeks/xUber)
+- Author: [Rendy del Rosario](https://github.com/CrossGeeks)
+
+## [KickassUI.Banking](https://github.com/sthewissen/KickassUI.Banking)
+
+A Xamarin.Forms version of a banking app concept, showing off how to use a base page.
+
+<img src="images/banking.jpg" Width="800" /> 
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+- BasePage.
+- Xamarin Essentials.
+- PancakeView.
+
+### More information:
+- Blog: [Create a kickass banking app using a BasePage in Xamarin](https://www.thewissen.io/create-a-kickass-banking-app-using-a-basepage-in-xamarin/)
+- Source code: [https://github.com/sthewissen/KickassUI.Banking](https://github.com/sthewissen/KickassUI.Banking)
+- Author: [Steven Thewissen](https://twitter.com/devnl)
+
+## [YellowClone](https://github.com/ionixjunior/YellowClone)
+
+A Yellow App clone made with Xamarin.Forms. 
+
+<img src="images/yellowclone01.png" Width="180" /> <img src="images/yellowclone02.png" Width="180" /> <img src="images/yellowclone03.png" Width="180" />
+
+### Platforms
+
+Android, iOS.
+
+### Features:
+
+- Custom Map.
+- MasterDetailPage.
+
+### More information:
+- Source code: [https://github.com/ionixjunior/YellowClone](https://github.com/ionixjunior/YellowClone)
+- Author: [Ione Souza Junior](https://github.com/ionixjunior)
+
 ## [Xamarin CloudMusic](https://github.com/o1298098/Xamarin-CloudMusic)
 
 A Xamarin.Forms version of the NeteaseCloudMusic app.
@@ -159,6 +489,7 @@ Android, iOS, UWP.
 - BindableLayout.
 
 ### More information:
+- Blog: [Xamarin.Forms UI Challenges - Art Auction](https://kymphillpotts.com/xamarin-forms-ui-challenge-artauction.html)
 - Source code: [https://github.com/kphillpotts/ArtAuction](https://github.com/kphillpotts/ArtAuction)
 - Author: [Kym Phillpotts](https://twitter.com/kphillpotts)
 
